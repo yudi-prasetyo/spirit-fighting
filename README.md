@@ -2,11 +2,11 @@
 Multithreaded CLI Fighting Game C
 
 Kelompok 7
-Yudi Prasetyo		/ 1905348
-Abighail Shafira	/ 1908860
-Ade Ariyansyah	/ 1904442
-Azka Naufal		/ 1908956
-Eva Nurkhofifah	/ 1801196
+-Yudi Prasetyo		/ 1905348
+-Abighail Shafira	/ 1908860
+-Ade Ariyansyah	/ 1904442
+-Azka Naufal		/ 1908956
+-Eva Nurkhofifah	/ 1801196
 
 Deskripsi Game
 Spirit Fighting merupakan permainan pertarungan(fighting) antara 2 pemain.
